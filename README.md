@@ -1,6 +1,6 @@
 # react-playground
 
-## Random - basic react components, start small and add progressions iteratively
+## Basic react components, start small and add progressions iteratively
 
 1. ### Page Tree
 
