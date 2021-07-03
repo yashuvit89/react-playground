@@ -1,8 +1,9 @@
 import './styles.css'
+import PageTree from './components/page-tree/v1'
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello world</h1>
+      <PageTree />
     </div>
   )
 }
